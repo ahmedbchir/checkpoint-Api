@@ -1,0 +1,14 @@
+.App {
+  background-color: darkgray;
+} 
+
+h3{
+  text-align: center;
+}
+
+.listUser{
+  display: flex;
+  justify-content: center;
+}
+
+
